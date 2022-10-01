@@ -1,3 +1,14 @@
+# Weather Web App built with ReactJS and OpenWeather API
+A side project of weather web app using OpenWeather API and ReactJS
+
+## Important:
+Replace `key` in the api call with your api key first
+
+## Screenshots:
+![example1](./src/images/showcase/example1.png)
+![example2](./src/images/showcase/example2.png)
+![example3](./src/images/showcase/example3.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
